@@ -1,0 +1,23 @@
+{
+  "name": "nginx-node",
+  "version": "1.0.0",
+  "description": "\"# nginx-node\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dipujscoder/nginx-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dipujscoder/nginx-node/issues"
+  },
+  "homepage": "https://github.com/dipujscoder/nginx-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
